@@ -1,0 +1,20 @@
+@font-face{
+    font-family: wellness;
+    src: url(./Assets/wellness\ shop\ font.woff2);
+}
+
+#bg1{
+    background: url(./Assets/Images/bg1.webp) no-repeat center center/cover;
+}
+
+#candle{
+    background: url(./Assets/Images/candle.webp) no-repeat center center/cover;
+}
+
+#bars{
+    background: url(./Assets/Images/bars.webp) no-repeat center center/cover;
+}
+
+#backImage{
+    background: url(./Assets/Images/Naturally\ Simple\ back.webp) no-repeat center center/cover;
+}
